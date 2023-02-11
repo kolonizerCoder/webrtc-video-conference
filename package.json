@@ -20,7 +20,7 @@
   "homepage": "https://github.com/agilityfeat/webrtc-video-conference-tutorial#readme",
   "dependencies": {
     "express": "^4.16.4",
-    "nodemon": "^2.0.9",
+    "nodemon": "^2.0.20",
     "socket.io": "^2.2.0"
   }
 }
